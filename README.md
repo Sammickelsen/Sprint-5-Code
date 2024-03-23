@@ -13,8 +13,6 @@ My team and I have been using Unity2D as our interface of choice. Within that, I
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [ChatGPT](https://chat.openai.com/)
 - [2D Shooting Tutorial - Youtube](https://www.youtube.com/watch?v=wkKsl1Mfp5M&t=654s)
 
